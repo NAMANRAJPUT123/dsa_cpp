@@ -1,4 +1,4 @@
-// // application of stack : check for balanced parentheses in an expression
+// application of stack : check for balanced parentheses in an expression
 // #include <iostream>
 // #include <cstring>
 // using namespace std;
